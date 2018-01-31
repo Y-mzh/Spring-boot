@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef12681-f3f0-4630-b5f0-3f6678a0fb0a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/example/demo/SpringBootDemo/SpringBootDemoController.java" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/example/demo/SpringBootDemo/SpringBootDemoController.java" />
-    </list>
+    <list default="true" id="4ef12681-f3f0-4630-b5f0-3f6678a0fb0a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -320,7 +318,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517296246816</updated>
-      <workItem from="1517296255090" duration="4697000" />
+      <workItem from="1517296255090" duration="4938000" />
     </task>
     <servers />
   </component>
@@ -339,7 +337,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4697000" />
+    <option name="totallyTimeSpent" value="4938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
